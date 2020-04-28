@@ -1,3 +1,3 @@
-this is a simple web application using docker container 
-##docker main file is Dockerfile 
-##app main file is index.html
+this is a simple web application using docker container <br />
+##docker main file is Dockerfile <br />
+##app main file is index.html <br />
